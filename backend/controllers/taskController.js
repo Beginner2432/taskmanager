@@ -1,3 +1,4 @@
+// Test commit for Jira integration (TMA-6)
 // Get task function
 const Task = require('../models/Task');
 const getTasks = async (
